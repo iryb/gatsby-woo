@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wp-gatsby-blog" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -30,11 +30,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614075039587</updated>
-      <workItem from="1614075040608" duration="313000" />
+      <workItem from="1614075040608" duration="4145000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2183" y="266" key="FileChooserDialogImpl" timestamp="1614095857134">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2183" y="266" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1614095857134" />
   </component>
 </project>
