@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acff2bff-0150-4e84-907a-acf1686c6693" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/featuredProducts/featuredProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/product/product.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +44,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1osUxjfUsFo6EfI9QNl2g7OAMys" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -70,6 +71,7 @@
       <updated>1614075039587</updated>
       <workItem from="1614075040608" duration="4145000" />
       <workItem from="1614283592606" duration="2014000" />
+      <workItem from="1614371231014" duration="428000" />
     </task>
     <servers />
   </component>
@@ -86,6 +88,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="195" key="FileChooserDialogImpl" timestamp="1614284132068">
@@ -93,21 +99,21 @@
     </state>
     <state x="436" y="195" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1614284132068" />
     <state x="2183" y="266" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1614095857134" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1614284095777">
+    <state width="1637" height="207" key="GridCell.Tab.0.bottom" timestamp="1614371577573">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1614284095777" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1614284095776">
+    <state width="1637" height="207" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1614371577573" />
+    <state width="1637" height="207" key="GridCell.Tab.0.center" timestamp="1614371577572">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1614284095776" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1614284095776">
+    <state width="1637" height="207" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1614371577572" />
+    <state width="1637" height="207" key="GridCell.Tab.0.left" timestamp="1614371577572">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1614284095776" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1614284095777">
+    <state width="1637" height="207" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1614371577572" />
+    <state width="1637" height="207" key="GridCell.Tab.0.right" timestamp="1614371577572">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1614284095777" />
+    <state width="1637" height="207" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1614371577572" />
   </component>
 </project>
