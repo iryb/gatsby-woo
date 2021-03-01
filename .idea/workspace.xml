@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acff2bff-0150-4e84-907a-acf1686c6693" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/bannerCarousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/shop-category.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ghw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wp-gatsby-blog" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -95,11 +93,11 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="436" y="195" key="FileChooserDialogImpl" timestamp="1614284132068">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="2183" y="266" key="FileChooserDialogImpl" timestamp="1614615240694">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="436" y="195" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1614284132068" />
-    <state x="2183" y="266" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1614095857134" />
+    <state x="2183" y="266" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1614615240694" />
     <state width="1637" height="207" key="GridCell.Tab.0.bottom" timestamp="1614371577573">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -116,6 +114,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1637" height="207" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1614371577572" />
+    <state x="2124" y="217" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1614615210065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2124" y="217" key="com.jetbrains.php.test.PhpNewTestDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1614615210065" />
     <state x="2459" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1614606463913">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
